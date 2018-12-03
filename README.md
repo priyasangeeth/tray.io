@@ -8,6 +8,7 @@ Automation has done for the following actions:
 5. Log out of Tray.io
 
 To run the files following actions has to be taken care:
+
 Prerequisites:
 1.node.js has to be installed
 2.protractor has to be installed

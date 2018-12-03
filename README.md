@@ -10,8 +10,9 @@ Automation has done for the following actions:
 To run the files following actions has to be taken care:
 
 Prerequisites:
-1.node.js has to be installed
-2.protractor has to be installed
+1.node.js has to be installed. Can get the executable file from https://nodejs.org/en/download/
+2.protractor has to be installed. If not installed, Open command prompt and type  "npm install –g protractor" and hit Enter.
+Check the installation and version using "Protractor --version."
 3.Chrome browser
 
 To execute the code:
